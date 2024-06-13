@@ -2,7 +2,7 @@
 
 Currently for Windows only. A keyboard layout for typing characters used in Old English that are not used in Modern English. Many people use the Icelandic keyboard layout for Old English, but I found the characters were in unintuitive places for me. 
 
-This layout was made using the [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=22339). If you would like to modify the layout to suit your needs, you can download MKLC and edit the oe-keyboard.klc file.s
+This layout was made using the [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=102134). If you would like to modify the layout to suit your needs, you can download MKLC and edit the oe-keyboard.klc file.s
 
 ## Installation
 1. Clone or download the repository (the green button in the upper right).
